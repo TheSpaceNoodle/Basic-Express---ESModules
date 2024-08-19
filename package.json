@@ -24,8 +24,6 @@
     "ejs": "^3.1.10",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
-    "express": "^4.19.2",
-    "passport": "^0.7.0",
-    "passport-local": "^1.0.0"
+    "express": "^4.19.2"
   }
 }
