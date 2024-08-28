@@ -4,4 +4,7 @@ Only few basic folders, server, eslint, prettier, dotenv, nodemon, ejs and '/' r
 
 # How to use
 
+git clone https://github.com/TheSpaceNoodle/Basic-Express---ESModules.git ./some-folder
+git remote set-url origin your-url-here
+
 npm i => npm run start => done
